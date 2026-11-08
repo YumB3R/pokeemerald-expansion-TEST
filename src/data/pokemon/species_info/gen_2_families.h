@@ -4,7 +4,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
 #endif
 
 #if P_FAMILY_CHIKORITA
-    [SPECIES_CHIKORITA] =
+    [SPECIES_CHIKORITA2] =
     {
         .baseHP        = 45,
         .baseAttack    = 49,
